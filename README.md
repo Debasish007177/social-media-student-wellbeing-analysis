@@ -30,7 +30,26 @@ The main objectives of this analysis are:
 - **Data Analysis**
 
 ---
+## Analysis Process
 
+1. Data Collection
+2. Data Cleaning & Transformation
+3. Data Modeling
+4. KPIs
+5. Exploratory Analysis
+6. Dashboard Development
+7. Insight Generation
+---
+## Analysis Approach
+
+The project follows a structured data analysis workflow:
+
+- Cleaned and transformed the dataset using Power Query.
+- Developed KPIs to monitor key indicators.
+- Used interactive filters for demographic and academic analysis.
+- Designed multiple Power BI dashboard pages.
+- Analyzed relationships between social media usage, lifestyle, mental health and academic performance.
+---
 ## Dashboard
 
 The project dashboard contains multiple analytical views covering:
@@ -89,12 +108,12 @@ The dashboard was created to identify important patterns and relationships withi
 
 Key findings from the analysis include:
 
-- Social media usage patterns vary across student groups.
-- Lifestyle and sleep-related factors can be analyzed alongside mental health indicators.
-- Academic performance can be compared with different behavioral and lifestyle characteristics.
-- The dashboard provides a consolidated view of student wellbeing and academic-related factors.
+- The dataset contains 705 students.
+- Average social media usage is 4.92 hours per day.
+- Average reported sleep duration is 6.87 hours per night.
+- Academic impact varies across academic levels.
+- Social media usage, sleep, mental health and academic performance show different patterns across student groups.
 
-> Note: The insights above describe the analytical areas of the project. Specific numerical findings are presented in the Power BI dashboard.
 
 ---
 ## Project Purpose
