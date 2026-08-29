@@ -39,10 +39,27 @@ The project dashboard contains multiple analytical views covering:
 - Mental Health & Lifestyle
 - Academic Performance
 - Relationships & Conflicts
+- Student profile
 
 ### Executive Overview
 
 ![Executive Overview](Dashboard/Executive_Overview.png)
+
+### Academic Impact
+
+![Academic Impact](Dashboard/Academic_Impact.png)
+
+### Mental Health & Lifestyle
+
+![Mental Health & Lifestyle](Dashboard/Mental_Health_Lifestyle.png)
+
+### Relationships & Conflicts
+
+![Relationships & Conflicts](Dashboard/Relationships_Conflicts.png)
+
+### Student Profile
+
+![Student Profile](Dashboard/Student_profile.png)
 
 ---
 
@@ -101,3 +118,10 @@ social-media-student-wellbeing-analysis/
 │   └── Power BI dashboard screenshots
 │
 └── README.md
+
+
+
+
+
+
+
