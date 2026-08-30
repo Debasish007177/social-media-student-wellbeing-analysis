@@ -30,7 +30,7 @@ The main objectives of this analysis are:
 - **Data Analysis**
 
 ---
-## Analysis Process
+## Analogical Process
 
 1. Data Collection
 2. Data Cleaning & Transformation
