@@ -81,6 +81,17 @@ The project dashboard contains multiple analytical views covering:
 ![Student Profile](Dashboard/Student_profile.png)
 
 ---
+---
+
+## 📁 Power BI Report
+
+The complete Power BI report file is available in this repository.
+
+📥 **[Download the Power BI Report](PowerBI/Social_Media_Usage_Mental_Health_Analysis.pbix)**
+
+The report contains the Power Query transformations, data model, KPIs, interactive filters and dashboard pages used for this analysis.
+
+---
 
 ## Key Areas of Analysis
 
