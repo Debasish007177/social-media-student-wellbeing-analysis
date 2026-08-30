@@ -81,7 +81,6 @@ The project dashboard contains multiple analytical views covering:
 ![Student Profile](Dashboard/Student_profile.png)
 
 ---
----
 
 ## 📁 Power BI Report
 
@@ -130,6 +129,15 @@ Key findings from the analysis include:
 ## Project Purpose
 
 This project was developed as part of my Data Analyst portfolio to demonstrate my ability to analyze data, identify meaningful patterns, and communicate analytical findings through an interactive dashboard.
+
+---
+## Dataset
+
+The dataset contains student-level information used to analyze social media usage, mental health, lifestyle factors and academic impact.
+
+The dataset used for this project is available in the `Dataset` folder.
+
+[View Dataset](Dataset/student_wellbeing_dataset.csv)
 
 ---
 ## Author
