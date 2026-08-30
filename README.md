@@ -153,9 +153,11 @@ Aspiring Data Analyst | Excel | SQL | Python | Power BI
 social-media-student-wellbeing-analysis/
 │
 ├── Dashboard/
-│   └── Power BI dashboard screenshots
-│
+├── Dataset/
+├── PowerBi/
 └── README.md
+
+
 
 
 
